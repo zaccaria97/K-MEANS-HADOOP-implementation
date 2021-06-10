@@ -1,0 +1,11 @@
+PointWritable.class
+ClusteringReducer.class
+Configurator.class
+ErrorComputingMapper.class
+SamplingReducer.class
+kMeans.class
+ClusteringMapper.class
+PriorityPoint.class
+PointsBinder.class
+SamplingMapper.class
+ErrorComputingReducer.class

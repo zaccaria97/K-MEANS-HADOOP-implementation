@@ -1,0 +1,11 @@
+/home/hadoop/k-means-master/hadoop/src/main/java/ErrorComputingMapper.java
+/home/hadoop/k-means-master/hadoop/src/main/java/PointsBinder.java
+/home/hadoop/k-means-master/hadoop/src/main/java/PointWritable.java
+/home/hadoop/k-means-master/hadoop/src/main/java/PriorityPoint.java
+/home/hadoop/k-means-master/hadoop/src/main/java/ErrorComputingReducer.java
+/home/hadoop/k-means-master/hadoop/src/main/java/ClusteringMapper.java
+/home/hadoop/k-means-master/hadoop/src/main/java/ClusteringReducer.java
+/home/hadoop/k-means-master/hadoop/src/main/java/kMeans.java
+/home/hadoop/k-means-master/hadoop/src/main/java/Configurator.java
+/home/hadoop/k-means-master/hadoop/src/main/java/SamplingMapper.java
+/home/hadoop/k-means-master/hadoop/src/main/java/SamplingReducer.java
